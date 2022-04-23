@@ -1,5 +1,8 @@
 public class Buzka implements PrzedstawiaEmocje, Rysowalny {
 
+    public String toString(){
+        return ":-)";
+    }
     public Buzka() {
 
     }
